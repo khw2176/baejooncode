@@ -1,10 +1,10 @@
 # [level 0] 몫 구하기 - 120805 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.45 MB, 시간: 0.01 ms
+메모리: 31.1 MB, 시간: 0.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 16일 15:30:27
+2025년 12월 25일 16:03:01
 
 ### 문제 설명
 
